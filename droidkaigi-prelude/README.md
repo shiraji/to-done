@@ -15,11 +15,10 @@ https://connpass.com/event/73367/
 
 Discuss about https://droidkaigi.jp/2018/accepted/ with gfx, muumuumuumuu
 
+My part is sessions for Kotlin. But I should read and ready for all of the sessions. (otherwise I will be just sitting there and listen what other presenters talk about)
+
 ## Talk Time
 
 * 16:35-17:05	droidkaigiセッション解説
 * 17:10-17:40	droidkaigiセッション解説
 
-## What I will talk about
-
-My part is sessions for Kotlin. But I should read and ready for all of the sessions. (otherwise I will be just sitting there and listen what other presenters talk about)
