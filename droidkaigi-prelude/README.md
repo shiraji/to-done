@@ -17,8 +17,8 @@ Discuss about https://droidkaigi.jp/2018/accepted/ with gfx, muumuumuumuu
 
 ## Talk Time
 
-16:35-17:05	droidkaigiセッション解説
-17:10-17:40	droidkaigiセッション解説
+* 16:35-17:05	droidkaigiセッション解説
+* 17:10-17:40	droidkaigiセッション解説
 
 ## What I will talk about
 
