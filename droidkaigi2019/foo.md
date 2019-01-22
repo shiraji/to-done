@@ -2,6 +2,9 @@
 
 Quick List
 
+Split Horizontally
+Preferece -> Appearance & Behaviro -> Quick Lists
+
 * !=をカッコ良く
 
 Fontを変える
