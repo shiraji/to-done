@@ -30,10 +30,12 @@ scratch file
 * JSON書きやすくする
 
 inject language
+これこのままだと別のPCで開いたら共有されないので、Alt+Enterを押して、明示的にすると良いです。
 
 * Run Configurationや.ideaの共有
 
-.ideaのignore設定を見直す
+.ideaのignore設定を見直す。
+あと機能として、アイコン設定できます。DroidKaigiのアプリにも設定されてます。
 
 * Layout Editor
 
