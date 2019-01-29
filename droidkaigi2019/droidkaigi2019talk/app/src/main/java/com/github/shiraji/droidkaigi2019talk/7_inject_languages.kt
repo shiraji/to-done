@@ -1,6 +1,7 @@
 package com.github.shiraji.droidkaigi2019talk
 
 // JSON書きやすくする
+// Alt+Enter language=JSON
 
 fun fooJson() {
     """
