@@ -2,18 +2,14 @@ package com.github.shiraji.droidkaigi2019talk
 
 // JSON書きやすくする
 // Alt+Enter language=JSON
+// Preferences | Editor | Language Injections | Advanced
 
-fun fooJson() {
-    """
-    {
-      "name": "shiraji",
-      "github": "@shiraji",
-      "age": 35
-    }
-    """.trimIndent()
+fun fooJson(): String {
+    return "{\n  \"name\": \"shiraji\",\n  \"github\": \"@shiraji\",\n  \"age\": 35\n}"
 }
 
 fun fooSQL() {
+    //language=yaml
     """
     workflows:
       version: 2
