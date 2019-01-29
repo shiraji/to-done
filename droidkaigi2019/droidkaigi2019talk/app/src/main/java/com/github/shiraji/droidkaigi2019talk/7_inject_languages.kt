@@ -9,7 +9,6 @@ fun fooJson(): String {
 }
 
 fun fooSQL() {
-    //language=yaml
     """
     workflows:
       version: 2
