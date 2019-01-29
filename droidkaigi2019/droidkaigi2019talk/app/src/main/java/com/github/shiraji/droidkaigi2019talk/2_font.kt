@@ -1,7 +1,7 @@
 package com.github.shiraji.droidkaigi2019talk
 
 // !=をかっこよく
-// Preferences | Editor | Font | check Enable Font ligatures
+// Preferences | Editor | Font
 
 fun foo(bar: Int) {
     if (bar != 5) {
