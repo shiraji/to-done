@@ -10,9 +10,9 @@ package com.github.shiraji.droidkaigi2019talk
 //}
 
 //@formatter:off
-fun notformat(bar: Int) {
-    if(bar != 5){
-    println(bar)
-    }
-}
+//fun notformat(bar: Int) {
+//    if(bar != 5){
+//    println(bar)
+//    }
+//}
 //@formatter:on
