@@ -12,3 +12,14 @@ fun fooJson() {
     }
     """.trimIndent()
 }
+
+fun fooSQL() {
+    """
+    workflows:
+      version: 2
+      build_and_test:
+        jobs:
+        - build
+        - test
+    """.trimIndent()
+}
