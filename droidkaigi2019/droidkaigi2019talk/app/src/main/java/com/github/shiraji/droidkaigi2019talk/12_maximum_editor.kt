@@ -3,7 +3,7 @@ package com.github.shiraji.droidkaigi2019talk
 // Android Studio is note pad!!!
 
 // hide tool windows
-// none tabs placement
+// tabs placement
 // breadcrumbs
 // show line numbers
 // Gutter icons
