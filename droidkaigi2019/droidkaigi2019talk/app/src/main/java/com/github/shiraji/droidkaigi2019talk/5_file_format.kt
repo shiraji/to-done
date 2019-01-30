@@ -1,7 +1,8 @@
 package com.github.shiraji.droidkaigi2019talk
 
 // コードフォーマット
-// Preferences | Editor | Code Style
+// Reformat code, macro, save actions...Inspection!!
+// Preferences | Editor | Inspections | Kotlin | Style Issues | File is not formatted...
 
 //fun format(bar: Int) {
 //    if(bar != 5){

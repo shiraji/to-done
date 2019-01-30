@@ -3,5 +3,6 @@
   <component name="ExternalDependencies">
     <plugin id="com.github.shiraji.emoji" />
     <plugin id="com.github.shiraji.findpullrequest" />
+    <plugin id="org.nik.presentation-assistant" />
   </component>
 </project>
