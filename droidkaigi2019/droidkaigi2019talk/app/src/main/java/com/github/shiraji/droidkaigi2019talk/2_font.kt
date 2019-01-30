@@ -7,4 +7,8 @@ fun foo(bar: Int) {
     if (bar != 5) {
         println(bar)
     }
+
+    when (bar) {
+        5 -> println("ご！")
+    }
 }
