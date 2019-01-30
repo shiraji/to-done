@@ -1,6 +1,6 @@
 package com.github.shiraji.droidkaigi2019talk
 
-// Android Studio can be text editor!!!
+// Android Studio is note pad!!!
 
 // hide tool windows
 // none tabs placement
