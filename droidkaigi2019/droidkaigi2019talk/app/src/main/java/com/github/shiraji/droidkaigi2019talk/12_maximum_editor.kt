@@ -9,3 +9,6 @@ package com.github.shiraji.droidkaigi2019talk
 // Gutter icons
 // Status bar
 // navigation bar
+
+// To clean up
+// Delete ~/Library/Preferences/AndroidStudio3.3/
