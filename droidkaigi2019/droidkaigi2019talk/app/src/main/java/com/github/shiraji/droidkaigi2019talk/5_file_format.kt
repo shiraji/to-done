@@ -10,6 +10,8 @@ package com.github.shiraji.droidkaigi2019talk
 //    }
 //}
 
+// Preferences | Editor | Code Style
+
 //@formatter:off
 //fun notformat(bar: Int) {
 //    if(bar != 5){
