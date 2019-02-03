@@ -4,8 +4,9 @@ package com.github.shiraji.droidkaigi2019talk
 // Alt+Enter language=JSON
 // Preferences | Editor | Language Injections | Advanced
 
-fun fooJson(): String {
-    return "{\n  \"name\": \"shiraji\",\n  \"github\": \"@shiraji\",\n  \"age\": 35\n}"
+fun fooJson() {
+    val raws = "{\n  \"name\": \"shiraji\",\n  \"github\": \"@shiraji\",\n  \"age\": 35\n}"
+    val json = "{\n  \"name\": \"shiraji\",\n  \"github\": \"@shiraji\",\n  \"age\": 35,\n  \"foo\": \"bar\"\n}"
 }
 
 fun fooSQL() {
