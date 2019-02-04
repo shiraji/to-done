@@ -6,7 +6,7 @@ package com.github.shiraji.droidkaigi2019talk
 
 fun fooJson() {
     val raws = "{\n  \"name\": \"shiraji\",\n  \"github\": \"@shiraji\",\n  \"age\": 35\n}"
-    val json = "{\n  \"name\": \"shiraji\",\n  \"github\": \"@shiraji\",\n  \"age\": 35,\n  \"foo\": \"bar\"\n}"
+    val json = "{\n  \"name\": \"shiraji\",\n  \"github\": \"@shiraji\",\n  \"age\": 35\n}"
 }
 
 fun fooSQL() {
